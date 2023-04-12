@@ -1,6 +1,5 @@
+fname = "Arsalan"
+lname = "Arref"
 
-
-
-gfhgfhfgh
-
-
+fulln = fname + " " +lname
+print(f"my full name is {fulln}")
